@@ -2,3 +2,5 @@
 2- Ovos
 3- Arroz
 4- Feijão
+5- Macarrão
+6- Suco
